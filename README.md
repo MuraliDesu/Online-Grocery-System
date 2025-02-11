@@ -77,9 +77,9 @@ cd Online-Grocery-System
 
  1. Fork the repository.
 
- 2. Create a new branch for your feature or bugfix.
+ 2. Create a new branch for your feature or bug fix.
 
- 3. Commit your changes and push to the branch.
+ 3. Commit your changes and push them to the branch.
 
  4. Submit a pull request with a detailed description of your changes.
 
@@ -87,6 +87,21 @@ cd Online-Grocery-System
 
 ## Acknowledgments
 
- - University of Central Missouri for providing the opportunity to work on this project as part of my senior coursework.
+ - University of Central Missouri for allowing me to work on this project as part of my senior coursework.
 
- - My professors and peers for their guidance and feedback during the development process.
+ - My professors and peers, thank you for your guidance and feedback during the development process.
+
+---
+
+## Contact 
+**If you have any questions or feedback, feel free to reach out:**
+
+- :**Email::** desumuralikoushik@gmail.com
+
+- :**LinkedIn::** https://www.linkedin.com/in/muralikoushikdesu/
+
+- **GitHub:** https://github.com/MuraliKoushikDesu
+
+---
+
+**Thank you for checking out the Online Grocery System project! 🚀**
