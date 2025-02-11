@@ -34,6 +34,7 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 **Step 1: Clone the Repository**
 
 git clone https://github.com/[YourGitHubUsername]/Online-Grocery-System.git
+
 cd Online-Grocery-System
 
 **Step 2: Set Up the Backend**
