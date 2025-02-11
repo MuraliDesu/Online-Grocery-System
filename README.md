@@ -22,17 +22,12 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 
 ---
 
-## Project Structure
--**Online-Grocery-System/**
-├── frontend/               # Angular-based frontend code
-│   ├── src/                # Source files for the Angular app
-│   ├── assets/             # Static assets (images, styles, etc.)
-│   └── ...                 
-├── backend/                # .NET C# backend code
-│   ├── Controllers/        # API controllers
-│   ├── Models/             # Data models
-│   └── ...                 
-├── database/               # MongoDB database setup and scripts
-├── docker/                 # Docker configuration files
-├── README.md               # Project documentation
-└── ...             
+## Setup Instructions
+#Prerequisites
+-Node.js (for Angular frontend)
+-.NET SDK (for backend)
+-MongoDB (for database)
+-Docker (optional, for containerization)
+
+---
+
