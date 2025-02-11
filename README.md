@@ -24,10 +24,10 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 
 ## Setup Instructions
 #Prerequisites
--Node.js (for Angular frontend)
--.NET SDK (for backend)
--MongoDB (for database)
--Docker (optional, for containerization)
+- Node.js (for Angular frontend)
+- .NET SDK (for backend)
+- MongoDB (for database)
+- Docker (optional, for containerization)
 
 ---
 
