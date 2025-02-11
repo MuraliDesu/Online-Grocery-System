@@ -4,6 +4,12 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 
 ---
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/7bbe3f27-e929-433e-8923-85091988c83b)
+![image](https://github.com/user-attachments/assets/e2e4b692-7a25-4645-b918-f09cb9827440)
+
+---
+
 ## Features  
 - **User-Friendly Interface:** Intuitive design for easy navigation and shopping.  
 - **Product Catalog:** Displays a wide range of grocery items with categories and filters.  
@@ -100,12 +106,6 @@ cd Online-Grocery-System
 - **LinkedIn:** https://www.linkedin.com/in/muralikoushikdesu/
 
 - **GitHub:** https://github.com/MuraliKoushikDesu
-
----
-
-## Screenshots
-![image](https://github.com/user-attachments/assets/7bbe3f27-e929-433e-8923-85091988c83b)
-![image](https://github.com/user-attachments/assets/e2e4b692-7a25-4645-b918-f09cb9827440)
 
 ---
 
