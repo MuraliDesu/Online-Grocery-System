@@ -39,11 +39,11 @@ cd Online-Grocery-System
 
 **Step 2: Set Up the Backend**
 
-- 1. Navigate to the backend folder:
+ 1. Navigate to the backend folder:
   cd backend
-- 2. Restore dependencies:
+ 2. Restore dependencies:
   dotnet restore
-- 3. Run the backend server:
+ 3. Run the backend server:
   dotnet run
 
 **Step 3: Set Up the Frontend**
