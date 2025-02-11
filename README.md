@@ -103,4 +103,10 @@ cd Online-Grocery-System
 
 ---
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/7bbe3f27-e929-433e-8923-85091988c83b)
+![image](https://github.com/user-attachments/assets/e2e4b692-7a25-4645-b918-f09cb9827440)
+
+---
+
 **Thank you for checking out the Online Grocery System project! 🚀**
