@@ -29,7 +29,6 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 - MongoDB (for database)
 - Docker (optional, for containerization)
 
----
 
 **Step 1: Clone the Repository**
 
@@ -96,9 +95,9 @@ cd Online-Grocery-System
 ## Contact 
 **If you have any questions or feedback, feel free to reach out:**
 
-- :**Email::** desumuralikoushik@gmail.com
+- **Email:** desumuralikoushik@gmail.com
 
-- :**LinkedIn::** https://www.linkedin.com/in/muralikoushikdesu/
+- **LinkedIn:** https://www.linkedin.com/in/muralikoushikdesu/
 
 - **GitHub:** https://github.com/MuraliKoushikDesu
 
