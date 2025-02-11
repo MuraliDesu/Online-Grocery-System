@@ -19,3 +19,20 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 - **Database:** MongoDB
 - **Version Control:** Git/GitHub
 - **Tools:** Visual Studio Code, Docker
+
+---
+
+## Project Structure
+-**Online-Grocery-System/**
+├── frontend/               # Angular-based frontend code
+│   ├── src/                # Source files for the Angular app
+│   ├── assets/             # Static assets (images, styles, etc.)
+│   └── ...                 
+├── backend/                # .NET C# backend code
+│   ├── Controllers/        # API controllers
+│   ├── Models/             # Data models
+│   └── ...                 
+├── database/               # MongoDB database setup and scripts
+├── docker/                 # Docker configuration files
+├── README.md               # Project documentation
+└── ...             
