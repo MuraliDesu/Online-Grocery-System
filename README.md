@@ -23,7 +23,7 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 ---
 
 ## Setup Instructions
-#Prerequisites
+**Prerequisites**
 - Node.js (for Angular frontend)
 - .NET SDK (for backend)
 - MongoDB (for database)
@@ -31,3 +31,18 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 
 ---
 
+**Step 1: Clone the Repository**
+
+git clone https://github.com/[YourGitHubUsername]/Online-Grocery-System.git
+cd Online-Grocery-System
+
+**Step 2: Set Up the Backend**
+
+- 1. Navigate to the backend folder:
+  cd backend
+- 2. Restore dependencies:
+  dotnet restore
+- 3. Run the backend server:
+  dotnet run
+
+**Step 3: Set Up the Frontend**
