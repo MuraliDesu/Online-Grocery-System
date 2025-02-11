@@ -47,3 +47,6 @@ cd Online-Grocery-System
   dotnet run
 
 **Step 3: Set Up the Frontend**
+
+ 1. Navigate to the frontend folder:
+    cd frontend
