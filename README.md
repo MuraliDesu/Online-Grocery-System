@@ -14,9 +14,8 @@ Welcome to the **Online Grocery System** project! This is a full-stack web appli
 ---
 
 ## Technologies Used  
-```plaintext
-- Frontend: Angular, TypeScript, HTML, SCSS
-- Backend: .NET C#
-- Database: MongoDB
-- Version Control: Git/GitHub
-- Tools: Visual Studio Code, Docker
+- **Frontend:** Angular, TypeScript, HTML, SCSS
+- **Backend:** .NET C#
+- **Database:** MongoDB
+- **Version Control:** Git/GitHub
+- **Tools:** Visual Studio Code, Docker
