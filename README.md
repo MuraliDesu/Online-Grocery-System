@@ -1,4 +1,4 @@
-# **Big Data In-Class Programming (ICP) - Fall 2023**
+# **Big Data In-Class Programming (ICP) - Fall 2023** 
 
 ---
 
@@ -38,25 +38,25 @@ This repository contains projects and assignments completed as part of the Big D
 
 The repository includes the following components:
 
- 1. ICP Assignments
+ 1. **ICP Assignments**
 
 - Hands-on programming exercises covering big data tools and techniques.
 
 - Topics: Data Processing with Spark, MLlib for Machine Learning, Deep Learning with TensorFlow.
 
- 2. Project Implementations
+ 2. **Project Implementations**
 
 - End-to-end big data projects applying machine learning and deep learning concepts.
 
 - Case studies include public-sector services, healthcare, and business intelligence.
 
- 3. GitHub Wiki Documentation
+ 3. **GitHub Wiki Documentation**
 
 - Detailed explanations of each assignment and project.
 
 - Screenshots, code snippets, and learnings from each lesson.
 
- 4. Demo Videos
+ 4. **Demo Videos**
 
 - Short walkthroughs showcasing project executions and key code implementations.
 
@@ -92,14 +92,14 @@ cd BigDataICP
 
  3. **Set up a virtual environment:**
 
--python -m venv venv
--source venv/bin/activate  # On Windows use: venv\Scripts\activate
+- python -m venv venv
+- source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
-- 4. Install required dependencies:
+ 4. **Install required dependencies:**
 
 pip install -r requirements.txt
 
-- 5. Run the Jupyter Notebook:
+ 5. **Run the Jupyter Notebook:**
 
 jupyter notebook
 
