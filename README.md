@@ -1,100 +1,113 @@
-# Online Grocery System 🛒  
-
-Welcome to the **Online Grocery System** project! This is a full-stack web application developed as part of my senior project during my Bachelor’s degree in Computer Science at the **University of Central Missouri**. The application allows users to conveniently shop for groceries online, providing a seamless and responsive user experience.  
+# **Big Data In-Class Programming (ICP) - Fall 2023**
 
 ---
 
-## Screenshots
-![image](https://github.com/user-attachments/assets/7bbe3f27-e929-433e-8923-85091988c83b)
-![image](https://github.com/user-attachments/assets/e2e4b692-7a25-4645-b918-f09cb9827440)
+## Overview
+
+This repository contains projects and assignments completed as part of the Big Data Analytics course at the University of Central Missouri (Fall 2023). The coursework involved hands-on programming tasks using Apache Spark, MLlib, and TensorFlow/Keras to analyze large datasets and develop real-time big data applications.
 
 ---
 
-## Features  
-- **User-Friendly Interface:** Intuitive design for easy navigation and shopping.  
-- **Product Catalog:** Displays a wide range of grocery items with categories and filters.  
-- **Shopping Cart:** Allows users to add, remove, and manage items before checkout.  
-- **Responsive Design:** Optimized for both desktop and mobile devices.  
-- **Secure Checkout:** Simulates a secure payment process for a complete shopping experience.  
+## Course Information
+
+- **Course Name:** Big Data Analytics (DSA 4620)
+
+- **Instructor:** Muhammad Zubair Khan
+
+- **Institution:** University of Central Missouri
+
+- **Semester:** Fall 2023
+
+- **Technologies Used:** Apache Spark, MLlib, TensorFlow, Keras, Python
 
 ---
 
-## Technologies Used  
-- **Frontend:** Angular, TypeScript, HTML, SCSS
-- **Backend:** .NET C#
-- **Database:** MongoDB
-- **Version Control:** Git/GitHub
-- **Tools:** Visual Studio Code, Docker
+## Learning Objectives
+
+- Develop solutions for real-world big data problems using advanced data processing techniques.
+
+- Utilize Apache Spark and MLlib for distributed data storage and machine learning applications.
+
+- Implement deep learning models with TensorFlow/Keras for predictive analytics.
+
+- Gain experience in handling large datasets and optimizing data workflows.
 
 ---
 
-## Setup Instructions
-**Prerequisites**
-- Node.js (for Angular frontend)
-- .NET SDK (for backend)
-- MongoDB (for database)
-- Docker (optional, for containerization)
+## Contents
 
+The repository includes the following components:
 
-**Step 1: Clone the Repository**
+- 1. ICP Assignments
 
-git clone https://github.com/MuraliKoushikDesu/OnlineGrocerySystem)
+- Hands-on programming exercises covering big data tools and techniques.
 
-cd Online-Grocery-System
+- Topics: Data Processing with Spark, MLlib for Machine Learning, Deep Learning with TensorFlow.
 
-**Step 2: Set Up the Backend**
+- 2. Project Implementations
 
- 1. Navigate to the backend folder:
-  cd backend
- 2. Restore dependencies:
-  dotnet restore
- 3. Run the backend server:
-  dotnet run
+- End-to-end big data projects applying machine learning and deep learning concepts.
 
-**Step 3: Set Up the Frontend**
+- Case studies include public-sector services, healthcare, and business intelligence.
 
- 1. Navigate to the frontend folder:
-    cd frontend
- 2. Install dependencies:
-    npm install
- 3. Run the Angular development server:
-    ng serve
+- 3. GitHub Wiki Documentation
 
-**Step 4: Set Up the Database**
+- Detailed explanations of each assignment and project.
 
- 1. Ensure MongoDB is installed and running.
+- Screenshots, code snippets, and learnings from each lesson.
 
- 2. Update the connection string in the backend configuration file (appsettings.json) to point to your MongoDB instance.
+- 4. Demo Videos
 
-**Step 5: Run with Docker (Optional)**
+- Short walkthroughs showcasing project executions and key code implementations.
 
- 1. Build the Docker images:
-    docker-compose build
-
- 2. Start the containers:
-    docker-compose up
+- Getting Started
 
 ---
 
-## Contributing
+## Prerequisites
 
-**Contributions are welcome! If you’d like to contribute to this project, please follow these steps:**
+**To run the projects locally, ensure you have the following installed:**
 
- 1. Fork the repository.
+- Python 3.8+
 
- 2. Create a new branch for your feature or bug fix.
+- Apache Spark
 
- 3. Commit your changes and push them to the branch.
+- TensorFlow/Keras
 
- 4. Submit a pull request with a detailed description of your changes.
+- Jupyter Notebook
+
+- Git for version control
 
 ---
 
-## Acknowledgments
+## Installation Steps
 
- - University of Central Missouri for allowing me to work on this project as part of my senior coursework.
+- 1. **Clone the repository:**
 
- - My professors and peers, thank you for your guidance and feedback during the development process.
+git clone https://github.com/MuraliKoushikDesu/BigDataICP.git
+
+- 2. **Navigate to the directory:**
+
+cd BigDataICP
+
+- 3. **Set up a virtual environment:**
+
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+- 4. Install required dependencies:
+
+pip install -r requirements.txt
+
+- 5. Run the Jupyter Notebook:
+
+jupyter notebook
+
+---
+
+## Contributions
+
+Contributions and feedback are welcome! Feel free to fork the repository, submit issues, or create pull requests.
 
 ---
 
@@ -108,5 +121,3 @@ cd Online-Grocery-System
 - **GitHub:** https://github.com/MuraliKoushikDesu
 
 ---
-
-**Thank you for checking out the Online Grocery System project! 🚀**
