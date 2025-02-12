@@ -84,7 +84,7 @@ The repository includes the following components:
 
  1. **Clone the repository:**
 
-git clone https://github.com/MuraliKoushikDesu/BigDataICP.git
+git clone https://github.com/MuraliKoushikDesu/MuraliKoushikDesu_BigData
 
  2. **Navigate to the directory:**
 
