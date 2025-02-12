@@ -105,6 +105,7 @@ jupyter notebook
 
 ---
 ## 📺Youtube Demo Videos
+**Short demo video showcasing project executions and key code implementations.**
 
 - **ICP1:** https://youtu.be/QkQeRh2c_S4
 - **ICP5:** https://youtu.be/ycPKtrFeO1M
