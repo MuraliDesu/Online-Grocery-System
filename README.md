@@ -104,7 +104,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 ---
-## Youtube Demo Videos📺
+## 📺Youtube Demo Videos
 
 - **ICP1:** https://youtu.be/QkQeRh2c_S4
 - **ICP5:** https://youtu.be/ycPKtrFeO1M
