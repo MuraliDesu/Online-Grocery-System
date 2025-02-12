@@ -4,7 +4,7 @@
 
 ## 📑Overview 
 
-This repository contains projects and assignments completed as part of the Big Data Analytics course at the University of Central Missouri (Fall 2023). The coursework involved hands-on programming tasks using Apache Spark, MLlib, and TensorFlow/Keras to analyze large datasets and develop real-time big data applications.
+This repository contains projects and assignments completed as part of the Big Data Analytics course at the **University of Central Missouri (Fall 2023)**. The coursework involved hands-on programming tasks using **Apache Spark, MLlib, and TensorFlow/Keras** to analyze large datasets and develop real-time big data applications.
 
 ---
 
