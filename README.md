@@ -1,8 +1,8 @@
-# **Big Data In-Class Programming (ICP) - Fall 2023** 
+# **Big Data In-Class Programming (ICP) - Fall 2023 👨🏻‍💻** 
 
 ---
 
-## Overview
+## Overview 
 
 This repository contains projects and assignments completed as part of the Big Data Analytics course at the University of Central Missouri (Fall 2023). The coursework involved hands-on programming tasks using Apache Spark, MLlib, and TensorFlow/Keras to analyze large datasets and develop real-time big data applications.
 
@@ -42,7 +42,7 @@ The repository includes the following components:
 
 - Hands-on programming exercises covering big data tools and techniques.
 
-- Topics: Data Processing with Spark, MLlib for Machine Learning, Deep Learning with TensorFlow.
+- **Topics:** Data Processing with Spark, MLlib for Machine Learning, Deep Learning with TensorFlow.
 
  2. **Project Implementations**
 
