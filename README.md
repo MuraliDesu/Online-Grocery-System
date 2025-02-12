@@ -2,13 +2,13 @@
 
 ---
 
-## Overview 
+## 📑Overview 
 
 This repository contains projects and assignments completed as part of the Big Data Analytics course at the University of Central Missouri (Fall 2023). The coursework involved hands-on programming tasks using Apache Spark, MLlib, and TensorFlow/Keras to analyze large datasets and develop real-time big data applications.
 
 ---
 
-## Course Information
+## 🏫Course Information
 
 - **Course Name:** Big Data Analytics (DSA 4620)
 
@@ -22,7 +22,7 @@ This repository contains projects and assignments completed as part of the Big D
 
 ---
 
-## Learning Objectives
+## ✒️Learning Objectives
 
 - Develop solutions for real-world big data problems using advanced data processing techniques.
 
@@ -34,7 +34,7 @@ This repository contains projects and assignments completed as part of the Big D
 
 ---
 
-## Contents
+## 🔖Contents
 
 The repository includes the following components:
 
@@ -64,7 +64,7 @@ The repository includes the following components:
 
 ---
 
-## Prerequisites
+## 🎒Prerequisites
 
 **To run the projects locally, ensure you have the following installed:**
 
@@ -80,7 +80,7 @@ The repository includes the following components:
 
 ---
 
-## Installation Steps
+## ⚠️Installation Steps
 
  1. **Clone the repository:**
 
@@ -105,13 +105,13 @@ jupyter notebook
 
 ---
 
-## Contributions
+## 🤝Contributions
 
 Contributions and feedback are welcome! Feel free to fork the repository, submit issues, or create pull requests.
 
 ---
 
-## Contact 
+## 📬Contact 
 **If you have any questions or feedback, feel free to reach out:**
 
 - **Email:** desumuralikoushik@gmail.com
